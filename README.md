@@ -6,7 +6,7 @@
 
 A professional, high-performance analytics dashboard designed for monitoring National Maternal Health indicators. This application integrates with the DHIS2 API to visualize ANC (Antenatal Care) coverage, delivery rates, and data quality metrics in real-time.
 
-![Dashboard Preview](./dashboard-preview.png)
+![Dashboard Preview](./dashboard_job.png)
 
 ## 🚀 Key Features
 
